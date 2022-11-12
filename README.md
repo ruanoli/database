@@ -1,4 +1,4 @@
-# Data Base
+# Banco de dados
 ## Nesse repositório contém:
 * Criação de uma base de dados
 * Consultas em uma base de dados
